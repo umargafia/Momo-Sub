@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     resizeMode: 'contain',
   },
   text: {
-    fontWeight: 'bold',
+    //fontWeight: 'bold',
     textAlign: 'center',
   },
   button: {

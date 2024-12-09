@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 30,
-    fontWeight: 'bold',
+    //fontWeight: 'bold',
     color: theme.palette.primary,
     transform: [{ translateY: -40 }],
     textTransform: 'uppercase',

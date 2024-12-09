@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     borderRadius: 10,
   },
   title: {
-    fontWeight: 800,
+    //fontWeight: 800,
     fontSize: 28,
     marginBottom: 10,
     textAlign: 'center',
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
   description: {
     color: '#62656b',
     paddingHorizontal: 64,
-    fontWeight: 600,
+    //fontWeight: 600,
     textAlign: 'center',
     textTransform: 'capitalize',
   },

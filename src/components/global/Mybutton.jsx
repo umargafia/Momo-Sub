@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     color: theme.palette.white,
     textAlign: 'center',
     textTransform: 'uppercase',
-    fontWeight: 600,
+    //fontWeight: 600,
     fontSize: 18,
   },
 });

@@ -47,7 +47,7 @@ export default styles = StyleSheet.create({
     color: theme.palette.black,
     textAlign: 'center',
     transform: [{ translateY: 30 }],
-    fontWeight: 'bold',
+    //fontWeight: 'bold',
     letterSpacing: 2,
     textTransform: 'capitalize',
   },
